@@ -22,8 +22,3 @@ An AI-driven platform that **generates courses**, **tracks progress**, and **pro
 
 ---
 
-## 📌 **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/nevernever69/Team_Techiez_HackTU-.git
-cd Team_Techiez_HackTU-
-
